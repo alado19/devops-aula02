@@ -1,7 +1,7 @@
-#Atores/atrizes preferidos
+# Atores/atrizes preferidos
 
-*ator 1 -- Johnny De
+* ator 1 -- Johnny De
 
-*ator 2 -- Will Smith
+* ator 2 -- Will Smith
 
-*ator 3 -- Jack Chan
+* ator 3 -- Jack Chan
