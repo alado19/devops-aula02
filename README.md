@@ -1,5 +1,7 @@
-#ator 1 -- Johnny De
+#Atores/atrizes preferidos
 
-#ator 2 -- Will Smith
+*ator 1 -- Johnny De
 
-#ator 3 -- Jack Chan
+*ator 2 -- Will Smith
+
+*ator 3 -- Jack Chan
